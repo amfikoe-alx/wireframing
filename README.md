@@ -58,3 +58,9 @@
 
   Facilitates Communication:
   It serves as a communication tool among team members, clients, and stakeholders, ensuring everyone is on the same page regarding the design and functionality.
+
+
+# The Final Task
+  A notable example can be found in a case study involving a design team working on a mobile banking application. The team utilized low-fidelity wireframes to outline the app's layout and             functionality, which facilitated early user testing (Best Practices for Wireframing and Prototyping in UI/UX Design, 2025). This initial phase revealed significant usability concerns regarding      navigation between key features such as account balance checks and transaction history. By engaging with stakeholders and potential users during this stage, the team was able to pinpoint            confusion surrounding the proposed navigation structure.
+
+  The identification of these usability issues proved crucial for the project’s success. Users expressed difficulty locating essential functions within the app, which could have led to frustration    and decreased satisfaction if left unaddressed (Wireframe Testing: Identify Usability Issues Early - MockFlow, 2023). Recognizing these challenges allowed the design team to take proactive          measures rather than reactively addressing problems later in development. This approach not only highlights the importance of user feedback but also emphasizes how early intervention can mitigate   future complications.
